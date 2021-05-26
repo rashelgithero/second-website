@@ -50,7 +50,7 @@
 img{
     width: 500px;
     height: 400px;
-    margin-left: 100px;
+    margin-left: 10px;
     margin-right: 10px;
     
 }
