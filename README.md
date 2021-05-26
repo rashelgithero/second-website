@@ -1,5 +1,4 @@
 # second-website
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Afrin Food Resturent</title>
